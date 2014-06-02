@@ -1,0 +1,30 @@
+!656;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;
+SCU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+S+U0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!100;u
+a1	b68	c95	f%\011Breakout.jar	g%\011Breakout505.zip	hManifest-Version\0110.0.1\011Main-Class\011main!26;a
+a%\011Breakout_doc	b	c1	d0!131;g
+%\011Bumper.java
+%\011Polkadot.java
+%\011BumperCollision.java
+%\011BumperPanel.java
+%\011Ball.java
+%\011panel1.java
+%\011main.java
+!110;f
+%	Bumper.java
+%	Polkadot.java
+%	BumperCollision.java
+%	BumperPanel.java
+%	Ball.java
+%	panel1.java
+%	main.java
